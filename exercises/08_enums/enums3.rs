@@ -61,7 +61,6 @@ impl State {
             },
             Message::Quit=>{self.quit = true;},
         }
->>>>>>> mycommit:exercises/enums/enums3.rs
     }
 }
 
